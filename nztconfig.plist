@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nickname</key>
+	<string>搭配师媛媛</string>
+	<key>gender</key>
+	<string>女</string>
+	<key>birthday</key>
+	<string>2000-01-01</string>
+	<key>sign</key>
+	<string>私 zouzouxixi007</string>
+	<key>avatarID</key>
+	<string>c813000b37fc77f9eddf</string>
+	<key>avatarUrl</key>
+	<string>http://thyrsi.com/t6/379/1538382050x1822611359.png</string>
+	<key>awemeVideoUrl</key>
+	<string>http://v.douyin.com/RF2sTb/</string>
+	<key>sendMsgNum</key>
+	<string>19</string>
+	<key>sendMsgSpaceTime</key>
+	<string>0.2</string>
+	<key>sendMsgContent</key>
+	<string>你好</string>
+	<key>isOn</key>
+	<string>1</string>
+	<key>isTaskOn</key>
+	<string>1</string>
+	<key>timeArr</key>
+	<array>
+		<string>18:30</string>
+		<string>20:40</string>
+	</array>
+	<key>followNum</key>
+	<string>100</string>
+	<key>followSpaceTime</key>
+	<string>0.2</string>
+	<key>settingIsOn</key>
+	<dict>
+		<key>followIsOn</key>
+		<string>1</string>
+		<key>sendIsOn</key>
+		<string>1</string>
+		<key>sendType</key>
+		<string>视频</string>
+	</dict>
+</dict>
+</plist>
